@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MangaKakalot",
+    "id": 1001,
+    "baseUrl": "https://mangakakalot.gg",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://raw.githubusercontent.com/zkalo-web/mangakakalot-mangayomi/main/icon.png",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/zkalo-web/mangakakalot-mangayomi/main/js/mangakakalot.js",
+    "version": "0.0.1",
+    "isNsfw": false,
+    "hasCloudflare": false
+  }
+]
